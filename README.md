@@ -34,8 +34,9 @@ Don't forget to add SmartDLL namespace.
 
 Basically, SmartFileExplorer.fileName store selected file directory with extension. Where, SmartFileExplorer.filePath is just store directory of that selected file. Example:
 
-```string fileDir = fileExplorer.filePath; //Dir
-    string filePath = fileExplorer.fileName; //Dir with Extension and Name
+```
+   string fileDir = fileExplorer.filePath; //Dir
+   string filePath = fileExplorer.fileName; //Dir with Extension and Name
 ```
 
 # Contribution 
