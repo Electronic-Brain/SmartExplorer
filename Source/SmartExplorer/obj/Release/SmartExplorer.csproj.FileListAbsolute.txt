@@ -1,0 +1,5 @@
+C:\Users\srejo\source\repos\SmartExplorer\SmartExplorer\bin\Release\SmartExplorer.dll
+C:\Users\srejo\source\repos\SmartExplorer\SmartExplorer\bin\Release\SmartExplorer.pdb
+C:\Users\srejo\source\repos\SmartExplorer\SmartExplorer\obj\Release\SmartExplorer.csproj.CoreCompileInputs.cache
+C:\Users\srejo\source\repos\SmartExplorer\SmartExplorer\obj\Release\SmartExplorer.dll
+C:\Users\srejo\source\repos\SmartExplorer\SmartExplorer\obj\Release\SmartExplorer.pdb
