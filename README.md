@@ -1,5 +1,5 @@
 # SmartExplorer
-Smartly Explore all your Files and Dirs from Build & Editor
+Smartly browse and select files from Build & Editor
 
 Email : support@electronicbrain.net 
 
