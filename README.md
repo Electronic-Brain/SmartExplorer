@@ -1,4 +1,6 @@
 # SmartExplorer
+***[UPDATED AND BETTER VERSION HERE!](https://github.com/SrejonKhan/AnotherFileBrowser)***
+
 Smartly browse and select files from Build & Editor
 
 Email : support@electronicbrain.net 
